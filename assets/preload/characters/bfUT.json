@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				200,
+				-274
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "0Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-280
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "0EERR instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-280
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 20,
+			"name": "0EERR instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				-287
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "0Ouu instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				-287
+			],
+			"anim": "singDOWNmiss",
+			"fps": 20,
+			"name": "0Ouu instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				221,
+				-278
+			],
+			"anim": "singLEFTmiss",
+			"fps": 20,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				221,
+				-278
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				-251
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "0UPPP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				-251
+			],
+			"anim": "singUPmiss",
+			"fps": 20,
+			"name": "0UPPP instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfUT",
+	"position": [
+		-262,
+		1344
+	],
+	"healthicon": "icons-bfUT",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		407
+	],
+	"sing_duration": 4,
+	"scale": 0.452
+}

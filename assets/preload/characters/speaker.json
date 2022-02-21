@@ -83,7 +83,7 @@
 		{
 			"offsets": [
 				0,
-				-9
+				-320
 			],
 			"loop": false,
 			"anim": "danceLeft",
@@ -111,7 +111,7 @@
 		{
 			"offsets": [
 				0,
-				-9
+				-320
 			],
 			"loop": false,
 			"anim": "danceRight",
@@ -188,17 +188,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_rock",
+	"image": "characters/speaker",
 	"position": [
 		0,
-		-150
+		0
 	],
-	"healthicon": "gf",
+	"healthicon": "face",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		155,
+		155,
+		155
 	],
 	"camera_position": [
 		0,
