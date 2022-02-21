@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alt Agoti Sprites_B.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Angry_Agoti_Down0000" x="5" y="5" width="725" height="533"/>
+	
+	<SubTexture name="Angry_Agoti_Idle0000" x="5" y="706" width="581" height="673"/>
+	
+	<SubTexture name="Angry_Agoti_Left0000" x="1381" y="706" width="673" height="605"/>
+	
+	<SubTexture name="Angry_Agoti_Right0000" x="1381" y="5" width="820" height="691"/>
+	
+	<SubTexture name="Angry_Agoti_Up0000" x="740" y="5" width="631" height="841"/>
+	
+</TextureAtlas>

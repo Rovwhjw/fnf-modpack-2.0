@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garcellotiredtired_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+		<SubTexture name="garcellotired Sing Note DOWN0000" x="0" y="0" width="363" height="628" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="garcellotired Sing Note LEFT0000" x="680" y="0" width="378" height="665" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="garcellotired Sing Note RIGHT0000" x="1058" y="0" width="390" height="670" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="garcellotired Sing Note UP0000" x="680" y="670" width="398" height="678" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="garcellotired idle dance0000" x="363" y="0" width="317" height="682" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+</TextureAtlas>

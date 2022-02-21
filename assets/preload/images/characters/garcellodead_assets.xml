@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garcellodead_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garcello Sing Note DOWN0000" x="360" y="0" width="394" height="606" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="garcello Sing Note LEFT0000" x="0" y="0" width="360" height="651" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="garcello Sing Note RIGHT0000" x="0" y="653" width="392" height="671" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="garcello Sing Note UP0000" x="1120" y="0" width="348" height="700" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="garcello idle dance0000" x="754" y="0" width="366" height="653" frameX="0" frameY="-80" frameWidth="800" frameHeight="800"/>
+</TextureAtlas>
