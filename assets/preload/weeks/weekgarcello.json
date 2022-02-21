@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"headache",
+			"garcello",
+			[
+				46,
+				255,
+				113
+			]
+		],
+		[
+			"nerves",
+			"garcello-tired",
+			[
+				46,
+				255,
+				113
+			]
+		],
+		[
+			"release",
+			"garcello-dead",
+			[
+				115,
+				255,
+				173
+			]
+		],
+		[
+			"fading",
+			"garcello-dead",
+			[
+				115,
+				255,
+				173
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "garcello",
+	"weekName": "garcello",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Snake-Eyes",
+			"icons-cup_head",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sansational",
+			"icons-sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Last-Reel",
+			"icons-bendy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Screenplay",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Parasite",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"A.G.O.T.I",
+			"agoti-mad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "easy,normal,hard,expert,insane",
+	"weekCharacters": [
+		"agoti",
+		"bf",
+		"gf"
+	],
+	"storyName": "A.G.O.T.I",
+	"weekName": "A.G.O.T.I",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
